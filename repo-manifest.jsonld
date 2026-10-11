@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trio-owfs/commit/694a7d89265d78af6080978f01b86ec1fd32c9f9",
       "git:hexsha": "694a7d89265d78af6080978f01b86ec1fd32c9f9",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.14.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.14.2",
+      "repolex:parsedAt": "2026-10-11T06:24:38.634855+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/trio-owfs/commit/d935b5385e50a442f6a06da9e9d74da09b0a2863",
